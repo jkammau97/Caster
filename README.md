@@ -7,3 +7,6 @@ Due to me doing the metroid, I was allowed to borrow the parts for the caster. S
 
 I just followed the instructions. Also I'm just gonna put it all in the same document so It's all in one place.
 
+### Final Assembly
+
+I did it! only thing I didn't know was to use ISO nuts and bolts and to use HEX thin nut grade A&B.
